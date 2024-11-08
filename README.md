@@ -11,7 +11,8 @@
 | 일정수정 | Put | /api/todos/{id} |{"title":"string","userName":"string","password":"string"| {"id: 1, "title": "string","userName": "string","contents": "string","userId":"string","createdAt":"string","updatedAt": "string"} | 200: 정상수정 400: Bad Request 404: Not Found
 | 일정삭제 | Delet | /api/todos/{id} |{password":"string"}|-| 200: 정상삭제 404: Not Found
 
-![todo](https://github.com/user-attachments/assets/e8e743fd-dc44-49cb-a587-596fac46f26d)
+![todo](https://github.com/user-attachments/assets/a6d1c9bf-ebf4-433d-9f37-96aa06b2cae2)
+
 
 <details><summary>SQL 쿼리
 </summary>
